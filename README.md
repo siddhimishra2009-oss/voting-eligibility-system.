@@ -53,6 +53,7 @@ python -m unittest discover tests
 - Voter ID verification
 - Export results to CSV or PDF
 
+- live app:https://voting-eligibility-system-siddhi.streamlit.app/
 ## Author
 
 Name: SIDDHI MISHRA | RU Id: RU-26-02309
